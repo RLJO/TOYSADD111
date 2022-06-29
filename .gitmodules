@@ -12,3 +12,8 @@
 	path = githubasifkhan/pms
 	url = git@github.com:githubasifkhan/pms.git
 	branch = main
+
+[submodule "githubasifkhan/pharam"]
+	path = githubasifkhan/pharam
+	url = git@github.com:githubasifkhan/pharam.git
+	branch = main
