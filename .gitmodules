@@ -7,3 +7,8 @@
 	path = githubasifkhan/Alyaferp
 	url = git@github.com:githubasifkhan/Alyaferp.git
 	branch = main
+
+[submodule "githubasifkhan/pms"]
+	path = githubasifkhan/pms
+	url = git@github.com:githubasifkhan/pms.git
+	branch = main
