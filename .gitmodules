@@ -2,3 +2,8 @@
 	path = RLJO/pharama
 	url = git@github.com:RLJO/pharama.git
 	branch = main
+
+[submodule "githubasifkhan/Alyaferp"]
+	path = githubasifkhan/Alyaferp
+	url = git@github.com:githubasifkhan/Alyaferp.git
+	branch = main
